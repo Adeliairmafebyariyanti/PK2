@@ -1,9 +1,14 @@
-h1 {
-/*Gantikan Warna ke #ff0000 */
-  Color: #ff0000;
+h1{
+  /* Gantikan warna ke #F0E68C */
+  color: #F0E68C;
 }
- P {
 
-/* Gantikan Warna ke #0000ff */
-Color: #0000ff;
+h2{
+  /*gantikan warna ke #DAA520 */
+  color: #DAA520;
+}
+
+p {
+  /* Gantikan warna ke #006400*/
+  color: #006400;
 }
